@@ -1,7 +1,3 @@
-
-
-
-
 function [MATX_Points_Flat,MATX_Hinges]=FlattenTetra(MATX_Points_Tetra)
 
     tool=TOOLS_SharedFunction;
