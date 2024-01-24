@@ -1,5 +1,5 @@
 % PAPER NAME: Multi-stable spatial linkages
-% THEME:      Data S1: Stiffness Analysis for 4R MSSL
+% THEME:      Data S2: Stiffness Analysis for 4R MSSL
 % AUTHOR:     Tong Zhou <zhoutong_whu@whu.edu.cn>
 % UPDATA:     2023-11-06
 
