@@ -1,4 +1,4 @@
-_**This is the supporting information package of the code and data for the paper "Multi-stable Spatial linkages".**_
+_**This is the supporting information package of the codes and data for the paper "Multi-stable Spatial linkages".**_
 
 **Paper title:**   
 Multi-stable Spatial linkages
