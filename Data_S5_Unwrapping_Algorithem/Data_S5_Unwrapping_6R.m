@@ -1,5 +1,5 @@
 clear;clc;close all;
-load('RUST_SepcialCase_6R_Keshe.mat');
+% load('RUST_SepcialCase_6R_Keshe.mat');
 tool=TOOLS_SharedFunction();
 
 MATX_Points_C1=MATX_PointsSBest_NoContact(1:12,:);
