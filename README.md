@@ -1,4 +1,4 @@
-**This is the code and data in the supporting information for the paper "Multi-stable Spatial linkages".**
+_**This is the code and data in the supporting information for the paper "Multi-stable Spatial linkages".**_
 
 **Paper title:** 
 Multi-stable Spatial linkages
